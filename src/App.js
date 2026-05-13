@@ -1,21 +1,8 @@
 /* eslint-disable */
 /**
- * MindSphere — App.jsx  (Rebuilt & Fixed)
- * ─────────────────────────────────────────
- * Changes from original:
- *  1. Fully responsive at 100% width — no overflow on any screen
- *  2. "Contact Us" in nav → opens WhatsApp to 9242163432
- *  3. "Book Now" → navigates to a clean multi-step booking page (separate view)
- *  4. Edit button relocated to top-right corner (always visible, non-intrusive)
- *  5. All layout bugs fixed (hero grid, stats overflow, footer, form rows)
- *  6. Payment gateway placeholder ready (step 4 shows "Payment coming soon" note)
+ * MindSphere — Fully Responsive with Mobile-Optimized Edit Mode
  */
-
 import { useState, useEffect, useRef, createContext, useContext } from "react";
-
-/* ─────────────────────────────────────────────────────────────
-   DEFAULT CONTENT (inline — no external JSON needed)
-───────────────────────────────────────────────────────────── */
 const defaultContent = {
   site: {
     name: "MindSphere",
@@ -36,7 +23,7 @@ const defaultContent = {
     cta1: "Book a Session",
     cta2: "Learn More",
     stats: [
-      { num: "500+", label: "Clients Supported" },
+      
       { num: "12+", label: "Years Experience" },
       { num: "98%", label: "Satisfaction Rate" },
       { num: "100%", label: "Confidential" },
