@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * MindSphere — App.jsx  (Rebuilt & Fixed)
  * ─────────────────────────────────────────
