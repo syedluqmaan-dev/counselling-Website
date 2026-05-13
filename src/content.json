@@ -1,0 +1,129 @@
+{
+  "site": {
+    "name": "MindSphere",
+    "tagline": "Psychology & Executive Coaching",
+    "phone": "+44 20 1234 5678",
+    "email": "hello@mindsphere.com",
+    "whatsapp": "https://wa.me/442012345678",
+    "address1": "123 Harley Street, London",
+    "address2": "W1G 6AA, United Kingdom",
+    "copyright": "© 2024 MindSphere. All rights reserved."
+  },
+  "hero": {
+    "badge": "Est. 2012 · Award-winning practice",
+    "heading1": "Elevate your mind,",
+    "heading2": "transform your",
+    "heading3": "potential",
+    "subtext": "World-class psychology and executive coaching — tailored to your unique journey. In-person or online, completely confidential.",
+    "cta1": "Book a Session →",
+    "cta2": "Meet Our Team",
+    "stats": [
+      { "num": "2,500+", "label": "Happy Clients" },
+      { "num": "15+", "label": "Experts" },
+      { "num": "98%", "label": "Success Rate" },
+      { "num": "24/7", "label": "Support" }
+    ],
+    "floatBadgeTitle": "100% Confidential",
+    "floatBadgeSub": "GDPR Compliant · Secure",
+    "floatLabel": "Next Availability",
+    "floatAvailability": "Today & Tomorrow",
+    "floatCta": "Book instantly →"
+  },
+  "trustBar": [
+    "🏆 Top Rated Psychology Practice 2024",
+    "⭐ 4.9/5 from 500+ Reviews",
+    "🔒 NHS & BUPA Recognised",
+    "🌍 Clients in 30+ Countries",
+    "🎓 Harvard-affiliated Practitioners"
+  ],
+  "about": {
+    "label": "Our Philosophy",
+    "heading": "Science-backed care that meets you where you are",
+    "body": "We blend evidence-based psychology with real-world practicality. No jargon, no judgment — just genuine support.",
+    "statNum": "98%",
+    "statLabel": "of clients report significant improvement within 8 sessions",
+    "pillars": [
+      { "icon": "🧠", "title": "Evidence-based", "desc": "Treatments grounded in the latest research." },
+      { "icon": "🤝", "title": "Genuine connection", "desc": "Therapeutic alliance built on trust and respect." },
+      { "icon": "📈", "title": "Goal-oriented", "desc": "Clear milestones and measurable outcomes." }
+    ]
+  },
+  "services": {
+    "label": "What We Offer",
+    "heading": "Specialised care for every stage of life",
+    "subtext": "From young minds to executive leadership — we're here to help.",
+    "items": [
+      { "icon": "🧒", "age": "Children (6-12)", "title": "Child Psychology", "desc": "Play therapy, anxiety management, emotional regulation for young minds.", "tags": ["Anxiety", "ADHD", "School Issues"] },
+      { "icon": "🧑", "age": "Teens (13-17)", "title": "Adolescent Therapy", "desc": "Navigating identity, peer pressure, academic stress, and mental health.", "tags": ["Depression", "Social Anxiety", "Self-esteem"] },
+      { "icon": "👨", "age": "Adults", "title": "Adult Psychology", "desc": "Workplace stress, relationships, trauma, and personal growth.", "tags": ["Burnout", "PTSD", "Relationships"] },
+      { "icon": "💼", "age": "Executives", "title": "Executive Coaching", "desc": "Leadership development, decision-making, and high-performance mindset.", "tags": ["Leadership", "Stress", "Strategy"] },
+      { "icon": "💑", "age": "Couples", "title": "Couples Therapy", "desc": "Communication, conflict resolution, and rebuilding intimacy.", "tags": ["Relationships", "Trust", "Communication"] },
+      { "icon": "👴", "age": "Seniors", "title": "Older Adults", "desc": "Life transitions, grief, loneliness, and cognitive health.", "tags": ["Retirement", "Loss", "Wellbeing"] }
+    ]
+  },
+  "sessionFormats": {
+    "label": "How We Meet",
+    "heading": "Flexible formats for your lifestyle",
+    "subtext": "Choose what feels right for you — we adapt to your needs.",
+    "items": [
+      { "icon": "☕", "sub": "We come to you", "title": "Café or Restaurant", "desc": "Casual sessions in a comfortable public setting." },
+      { "icon": "🏠", "sub": "Your private space", "title": "Home Visit", "desc": "We'll come to your home or office." },
+      { "icon": "🏢", "sub": "Central London", "title": "Our Consulting Rooms", "desc": "Mayfair & Knightsbridge locations.", "detail": "Next availability: Today" },
+      { "icon": "🖥️", "sub": "Anywhere", "title": "Online Video", "desc": "Secure, encrypted sessions from anywhere." },
+      { "icon": "🎭", "sub": "Complete privacy", "title": "Anonymous Session", "desc": "Voice only — no name required." }
+    ],
+    "anonSub": "100% Anonymous",
+    "anonTitle": "Speak freely — no identity needed",
+    "anonDesc": "For those who prefer complete privacy. No registration, no name — just support.",
+    "anonCta": "Start Anonymous Session →"
+  },
+  "howItWorks": {
+    "label": "Simple Process",
+    "heading": "Your journey to wellbeing, simplified",
+    "subtext": "From first contact to lasting change — we're with you every step.",
+    "steps": [
+      { "n": "01", "icon": "📞", "title": "Free Consultation", "desc": "15-min call to understand your needs and match you with the right specialist." },
+      { "n": "02", "icon": "📅", "title": "Book & Pay", "desc": "Choose your format, specialist, and time — secure payment via Stripe." },
+      { "n": "03", "icon": "🌱", "title": "Start Your Journey", "desc": "Begin therapy or coaching with personalised support and measurable goals." }
+    ],
+    "feeLabel": "Investment",
+    "feeRange": "£120 – £350",
+    "feePer": "per session",
+    "feeNote": "Sliding scale available · Insurance accepted",
+    "feeCta1": "Book a Session",
+    "feeCta2": "Contact Us"
+  },
+  "specialists": {
+    "label": "Our Team",
+    "heading": "World-class specialists",
+    "subtext": "Each practitioner brings unique expertise and a warm, collaborative approach.",
+    "team": [
+      { "img": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80", "name": "Dr. Helena Ashworth", "creds": "DClinPsy, MSc", "role": "Clinical Psychologist & Executive Coach", "bio": "Former NHS lead with 15+ years experience in trauma and performance psychology.", "spec": ["Trauma", "Leadership", "Anxiety"], "langs": "English · Spanish" },
+      { "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80", "name": "Dr. James Whitmore", "creds": "PhD, MA", "role": "Couples & Relationship Specialist", "bio": "Gottman Institute trained. Expert in attachment theory and relationship repair.", "spec": ["Couples", "Communication", "Trust"], "langs": "English" },
+      { "img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80", "name": "Dr. Anika Patel", "creds": "DClinPsy, PGDip", "role": "Child & Adolescent Psychologist", "bio": "Passionate about helping young people thrive through evidence-based interventions.", "spec": ["ADHD", "Autism", "Anxiety"], "langs": "English · Hindi · Gujarati" }
+    ]
+  },
+  "testimonials": {
+    "label": "Client Stories",
+    "heading": "Real transformations, real lives",
+    "subtext": "What our clients say about their experience with MindSphere.",
+    "items": [
+      { "quote": "Dr. Helena helped me navigate the most difficult period of my career. I'm now leading with confidence I never knew I had.", "who": "Sarah, 42", "tag": "Executive" },
+      { "quote": "Our relationship was on the brink. After 6 sessions with James, we're communicating better than ever. Truly life-changing.", "who": "Mark & Priya", "tag": "Couples" },
+      { "quote": "My son was struggling at school. Dr. Anika gave him tools to manage his anxiety. He's thriving now.", "who": "David, father of 9yo", "tag": "Parent" }
+    ]
+  },
+  "booking": {
+    "label": "Begin Your Journey",
+    "heading": "Book your session today",
+    "subtext": "Secure, confidential, and just a few clicks away.",
+    "paymentNote": "Secure payment via Stripe — your card is never stored on our servers. Free cancellation within 24 hours.",
+    "submitLabel": "Pay & Confirm →",
+    "confirmNote": "You'll receive a confirmation email with calendar link and secure video room.",
+    "doneHeading": "Booking Confirmed!",
+    "doneBody": "Thank you for trusting us. You'll receive an email with your session details and calendar invitation within 5 minutes."
+  },
+  "footer": {
+    "about": "MindSphere provides exceptional psychology and coaching services. Evidence-based, compassionate, and entirely confidential."
+  }
+}
